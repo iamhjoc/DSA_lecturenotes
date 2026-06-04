@@ -58,8 +58,9 @@ Follow along or star the repo to stay updated.
 
 Built and maintained by **Himanshu Joshi**
 
-- 🐦 Twitter/X: [jochimanshuu](https://x.com/jochimanshuu) — daily #LearnInPublic updates
-- 💻 GitHub: [iamhjoc](https://github.com/iamhjoc)
+
+- GitHub: [iamhjoc](https://github.com/iamhjoc)
+- Linkedin: https://www.linkedin.com/in/jochimanshu/
 
 ---
 
