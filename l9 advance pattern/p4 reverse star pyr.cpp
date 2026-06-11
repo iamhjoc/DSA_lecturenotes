@@ -2,26 +2,26 @@
 using namespace std;
 
 int main()
+{
+    int n, row, col;
 
-{ int n,row,col ;
-    char a;
-    cout<<"Kitne number ka pyramid pattern chaiye:"<<endl;
-    cin>>n;
+    cout << "Kitne number ka pyramid pattern chaiye:" << endl;
+    cin >> n;
 
-    for ( row = n; row <= 1; row++)//row bas number of lines control karega
+    for (row = n; row >= 1; row--)
     {
-       
-        for (col = 1; col <=n - row; col++)
+        // spaces
+        for (col = 1; col <= n - row; col++)
         {
-            cout << " ";//space print hora
+            cout << " ";
         }
 
-        for (col = 1; col <=2*row - 1 ; col++)
-
+        // stars
+        for (col = 1; col <= 2 * row - 1; col++)
         {
-            cout << "*" <<"";
-        } 
- 
+            cout << "*";
+        }
+
         cout << endl;
     }
 
