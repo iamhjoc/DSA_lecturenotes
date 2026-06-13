@@ -7,7 +7,7 @@ int main()
     
     cout<<"number of square pattern  with circular void :"<<endl;
     cin>>n;
-
+//upper part of the pattern
     for ( row = n; row >= 1; row--)
     {
        
@@ -27,8 +27,34 @@ int main()
             cout << "*";//print *
         }
  
+        
         cout << endl;
-    }
 
+    }
+    //lower part of the pattern
+
+     for ( row = 1; row <= n; row++)
+    {
+       
+        for (col = 1; col <= row; col++)
+        {
+            cout << "*";//print *
+        }
+
+        for (col = 1; col <= 2*n - 2*row ; col++)
+
+        {
+            cout << " ";//space
+        } 
+        
+        for (col = 1; col <= row; col++)
+        {
+            cout << "*";//print *
+        }
+ 
+        
+        cout << endl;
+
+    }
     return 0;
 }
