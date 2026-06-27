@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int y;
+    cout<<"Enter the year : ";
+    cin>>y;
+
+    if(y/400==int )
+    {
+        cout<<"your entered number is a leap year";
+    }
+    if(y/4==int && y/4=float) {
+     
+         cout<<"your entered number is a leap year";
+    }
+    
+    else{
+        cout<<"not a leap year";
+    }
+    return 0;
+}
