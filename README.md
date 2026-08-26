@@ -23,5 +23,7 @@ not studied Friday due to idt
 not studied Saturday 19 july due to shifting of 00m
 not studied Sunday due to health issue 
 
+not studied 26 aug due to some foreseen reason 
+
 
 
