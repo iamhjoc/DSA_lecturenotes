@@ -1,2 +1,30 @@
+# macOS
 .DS_Store
+
+# VS Code
+.vscode/
+
+
+# C++ compiled output
+*.out
+*.exe
+*.o
+*.a
+
+# macOS compiled binaries / debug symbols
+*.dSYM/
+
+# VS Code temporary files
+tempCodeRunnerFile
+tempCodeRunnerFile.*
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build folders
+build/
+bin/.DS_Store
 .vscode/
