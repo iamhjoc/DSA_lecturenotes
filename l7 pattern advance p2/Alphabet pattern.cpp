@@ -7,7 +7,11 @@ int main()
     //char name = 'a'+ row -1; row is intialise by 0 so 97 + 0 -1 = 96 which is ' in ascii soit will print '
     for ( int row = 1; row <= 5; row++)
     { char name = 'a'+ row -1;
+<<<<<<< HEAD
         for (int col = 1; col <= row; col++)
+=======
+      for (int col = 1; col <= row; col++)
+>>>>>>> 0fde492 (Add DSA lecture notes)
         {
             cout << name << " ";
         }

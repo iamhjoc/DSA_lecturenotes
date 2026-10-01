@@ -19,7 +19,7 @@ int main() {
     cin>>a>>b;
     Swap(a,b);
     cout<<a<<" "<<b<<endl;
-float f1=8.8,f2=1.6;
+float f1=8.8,f2=1  .6;
 Swap(f1,f2);
 cout<<f1<<" "<<f2;
     return 0;
