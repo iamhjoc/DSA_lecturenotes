@@ -1,29 +1,9 @@
-hi
-11
-bi
-hi Structured DSA Lecture Notes which contains Code ,leetcode & Logics.
- #dsa #dsaquestions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-not studied Friday due to idt
-not studied Saturday 19 july due to shifting of 00m
-not studied Sunday due to health issue 
-
-not studied 26 aug due to some foreseen reason 
+Structured DSA Lecture Notes which contains Code ,leetcode & Logics.
+#dsa #dsaquestions
+not Friday 18 july due to idt
+not Saturday 19 july due to shifting of 00m
+not Sunday due to stealth issue 
+ogn,jsr 
 
 
 
